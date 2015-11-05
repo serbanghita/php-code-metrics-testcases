@@ -1,5 +1,5 @@
 <?php
-namespace PHPBI\Command\PHPTokenStream;
+namespace TestCases;
 
 class MyClass
 {
